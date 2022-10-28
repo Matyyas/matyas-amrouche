@@ -6,7 +6,9 @@
       year: 2021 - Now
       description:
         - WIP
-        - Python / Tensorflow / Spark / SQL / Kubernetes / Kubeflow / Docker / Git
+        - title: Tech used on a regular basis
+          contents:
+            - Python / Tensorflow / Spark / SQL / Kubernetes / Kubeflow / Docker / Git / AWS (S3, EKS, Athena, EMR)
 
 - title: Justice.cool
   type: time_table
@@ -27,6 +29,9 @@
             - Mail Classification (as supervisor)
             - Document Information Extraction combining OCR, CV and NLP approaches (as supervisor)
         - NLP and deep learning research papers monitoring.
+        - title: Tech used on a regular basis
+          contents:
+            - Python / Pytorch / Sklearn / FastAPI / ElasticSearch / Docker / Git / AWS (EB, S3, Lamba)
 
     - title: Machine Learning Engineer
       year: 2019
@@ -62,7 +67,9 @@
         - A/B testing of new features such as homepage design, pricing strategy or dating algorithms parameters.
         - Automated data pipelines for visualisation and KPIs monitoring with dashboard integration. In particular, I worked on tracking and evaluating women over-solicitation on dating app.
         - Data extraction and business analysis and forecasting (conversion rate, customer’s activity, customer’s experience, customer's life time value, acquisition strategies…) for various Meetic's stakeholders
-        - SQL / QlikView / Excel / PowerPoint
+        - title: Tech used on a regular basis
+          contents:
+            - SQL / QlikView / Excel / PowerPoint
 
 
 - title: Amazon
@@ -74,7 +81,9 @@
         - Project Management, KPI analytics to identify specific network weaknesses to reduce costs and volume of failures (late shipments, lost shipments, damaged shipments...).
         - Transportation data extraction (SQL) and visualisation (Python, Excel, Tableau).
         - Financial and Customer Service data analysis support.
-        - Python / SQL / Tableau / Excel / VBA / PowerPoint
+        - title: Tech used on a regular basis
+          contents:
+            - Python / SQL / Tableau / Excel / VBA / JavaScript
 
 
 - title: IMT Atlantique
